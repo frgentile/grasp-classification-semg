@@ -1,0 +1,14 @@
+# Machine Learning and Data Analytics
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+matplotlib
+
+# Jupiter Notebooks
+jupyterlab
+voila
+
+# EMD
+EMD-signal
